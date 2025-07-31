@@ -32,8 +32,8 @@
         <li><a href="W02_01_oddEventNumber.php">odd-Even-Number</a></li>
         <li><a href="W02_02_grade.php">Calculate Grade</a></li>
         <li><a href="">Show Product (fix data)</a></li>
-        <li><a href="W06_01_loopProduct.php">Connect Database</a></li>
-        <li><a href="">Show product</a></li>
+        <li><a href="W07_01_ConnectDB.php">Connect Database</a></li>
+        <li><a href="W07_02_fetchData.php">Fetch data</a></li>
 
     </ul>
 
